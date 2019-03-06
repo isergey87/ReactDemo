@@ -1,0 +1,25 @@
+.post {
+    padding: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.post + .post {
+    margin-top: 8px;
+}
+
+.post-name {
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.post-message {
+    line-height: 20px;
+}
+
+.post-message + .post-date {
+    margin-top: 8px;
+}
+
+.post-date {
+    font-size: small;
+}
