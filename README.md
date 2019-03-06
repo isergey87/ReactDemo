@@ -1,3 +1,3 @@
 # React Widget
 
-* git clone https://gitlab.com/DevE-ng/reactjsdemowidget.git 
+* git clone https://github.com/isergey87/ReactDemo.git
